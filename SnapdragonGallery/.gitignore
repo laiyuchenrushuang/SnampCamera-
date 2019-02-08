@@ -1,0 +1,8 @@
+# Project files and paths.
+.classpath
+.project
+*.iml
+**/*.iml
+.settings/
+.idea/
+project.properties
